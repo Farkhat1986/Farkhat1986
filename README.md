@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhat.farhat&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -33,7 +27,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 ###
