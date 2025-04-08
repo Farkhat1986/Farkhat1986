@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git height="40" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker height="40" alt="postgresql logo" />
   </a>
 </p>
